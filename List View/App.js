@@ -33,4 +33,4 @@ const styles = StyleSheet.create({
   }
 })
 
-AppRegistry.registerComponent('GusNando', () => App);
+AppRegistry.registerComponent('Latihan', () => App);
