@@ -1,7 +1,4 @@
-/**
-  Gus Nando
-  07/03/2018
- */
+
 import React from 'react';
 import {
   AppRegistry,
